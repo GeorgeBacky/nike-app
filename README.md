@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 
 
 #Nike APP Screenshot
-![Imgur](https://imgur.com/a/DURCngN)
+<img src="https://imgur.com/a/DURCngN" width="500">
