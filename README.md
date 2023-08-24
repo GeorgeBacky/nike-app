@@ -8,5 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-#Nike APP Screenshot
-<img src="./nikeapp.png" width="500">
+#Nike APP Screenshot 
+<br>
+<br>
+<img src="./nikeapp.png">
